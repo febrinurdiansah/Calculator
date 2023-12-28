@@ -1,15 +1,19 @@
 # Calculator
 
-<p align="center">
-  <img src="screenshot/1.PNG" width="500" alt="Calculator Image">
-</p>
-
 Calculator is a Kotlin app for performing various mathematical calculations.
+
+## Introduction
+
+This project marks the beginning of the application's development journey. I am committed to continuous improvement to make this calculator app even better in the future.
 
 ## Features
 
 - Perform various mathematical calculations with ease.
 - Built with Kotlin to provide a seamless and efficient user experience.
+
+## Screenshots
+
+<img src="screenshot/1.PNG" width="350" alt="Calculator Image">
 
 ## Get Started
 

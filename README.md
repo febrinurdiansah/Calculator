@@ -1,7 +1,7 @@
 # Calculator
 
 <p align="center">
-  <img src="screenshot/1.PNG" width="200" alt="Calculator Image">
+  <img src="screenshot/1.PNG" width="500" alt="Calculator Image">
 </p>
 
 Calculator is a Kotlin app for performing various mathematical calculations.
